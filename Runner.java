@@ -4,8 +4,8 @@ public class Runner
 {
   public static void main(String[] args)
   {
-    World.setVisible(true); 
     World.setDelay(50);
-    //World.readWorld(".kwld");
+    World.readWorld("fieldOfBeepers.kwld");
+    World.setVisible(true); 
   }
 }
