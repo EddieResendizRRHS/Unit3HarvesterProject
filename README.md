@@ -1,6 +1,7 @@
 # Unit3HarvesterProject
 
 Name: 
+
 Period: 
 
 1. What was your approach to solving this problem? 
